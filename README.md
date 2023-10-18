@@ -1,8 +1,10 @@
 # Usage
 
-Run app with `scala-cli run App.scala`.
+Run app with `scala-cli run .`.
 
-Run tests with `scala-cli --power test README.md`.
+Run tests with `scala-cli test .`.
+
+Run snippets in this file with `scala-cli --power test README.md`.
 
 ```scala
 //> using scala 3.3.0
