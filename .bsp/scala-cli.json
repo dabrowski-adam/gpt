@@ -1,0 +1,16 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/usr/local/sdkman/candidates/scalacli/current/bin/scala-cli",
+    "bsp",
+    "--json-options",
+    "/workspaces/codespaces-blank/.scala-build/ide-options-v2.json",
+    "/workspaces/codespaces-blank"
+  ],
+  "version": "1.0.4",
+  "bspVersion": "2.1.0-M5",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
