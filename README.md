@@ -1,5 +1,9 @@
 # Usage
 
+Run app with `scala-cli run App.scala`.
+
+Run tests with `scala-cli --power test README.md`.
+
 ```scala
 //> using scala 3.3.0
 //> using platform scala-native
