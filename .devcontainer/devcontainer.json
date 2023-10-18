@@ -3,7 +3,7 @@
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/scalacli-sdkman:2": {
 			"version": "latest",
-			"jdkVersion": "21",
+			"jdkVersion": "17",
 			"jdkDistro": "ms"
 		}
 	}
